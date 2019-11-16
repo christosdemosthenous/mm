@@ -27,7 +27,7 @@
 ## Εργασία 3 : Download a torrent
 ## url asciinema : https://asciinema.org/a/Ro4J3tg4ootbIv1I799jnSsL2
 ## Εντολή : sudo apt-get install rtorrent
-Αφού έχω εκτελέσει την εντολή γράφω rtorrent στο terminal και μου ανοίγει το παράθυρο.Στην συνέχεια πατάω 'enter' για να εμφανίσει το 'load.normal' στο κάτω μέρος της οθόνης . Πήρα ένα magnet link απο το kickass όπου είναι μια σελίδα που μπορώ να κατεβάσω torrent αρχεία και το έκανα paste εκεί και πατάω enter . Στην συνέχεια πατώ το πάνω βελάκι και εμφανίζει τα ατεράκια δίπλα . Μέτα το 'Ctrl+S για να αρχίσει το download. Με το 'Ctrl+D σταματούμε το download και βγαίνουμε απο το rtorrent.
+Αφού έχω εκτελέσει την εντολή γράφω rtorrent στο terminal και μου ανοίγει το παράθυρο.Στην συνέχεια πατάω 'enter' για να εμφανίσει το 'load.normal' στο κάτω μέρος της οθόνης . Πήρα ένα magnet link απο το kickass όπου είναι μια σελίδα που μπορώ να κατεβάσω torrent αρχεία και το έκανα paste εκεί και πατάω enter . Στην συνέχεια πατώ το πάνω βελάκι και εμφανίζει τα αστεράκια δίπλα . Μέτα το 'Ctrl+S για να αρχίσει το download. Με το 'Ctrl+D σταματούμε το download και βγαίνουμε απο το rtorrent.
 
 ## Εργασία 1 :  Συμμετοχικό εκπαιδευτικό υλικό
 # Twitter account : https://twitter.com/p17dimo
