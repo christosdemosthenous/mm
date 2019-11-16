@@ -24,5 +24,10 @@
 ## Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/cookies.txt $(youtube-dl -g --cookies /tmp/cookies.txt " link apo youtube ")
 Με το -fs μπορούμε να βλέπουμε το video μας σε πλήρης εικόνα. To cookies-file δίνουμε δικαίωμα στο mplayer να χρησιμοποιήση cookies και το  -g είναι για να μην αποθηκευτεί το video και απλά να πάρουμε ένα link.
 
-## Εργασία 2 :  Συμμετοχικό εκπαιδευτικό υλικό
+## Εργασία 3 : Download a torrent
+## url asciinema : https://asciinema.org/a/Ro4J3tg4ootbIv1I799jnSsL2
+## Εντολή : sudo apt-get install rtorrent
+Αφού έχω εκτελέσει την εντολή γράφω rtorrent στο terminal και μου ανοίγει το παράθυρο.Στην συνέχεια πατάω 'enter' για να εμφανίσει το 'load.normal' στο κάτω μέρος της οθόνης . Πήρα ένα magnet link απο το kickass όπου είναι μια σελίδα που μπορώ να κατεβάσω torrent αρχεία και το έκανα paste εκεί και πατάω enter . Στην συνέχεια πατώ το πάνω βελάκι και εμφανίζει τα ατεράκια δίπλα . Μέτα το 'Ctrl+S για να αρχίσει το download. Με το 'Ctrl+D σταματούμε το download και βγαίνουμε απο το rtorrent.
+
+## Εργασία 1 :  Συμμετοχικό εκπαιδευτικό υλικό
 # Twitter account : https://twitter.com/p17dimo
