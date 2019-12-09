@@ -37,9 +37,9 @@
 
 # Συμμετοχικό εκπαιδευτικό υλικό
 
-## Εργασία 1 : Ενδιάμεση αναφορά
+## Εργασία 1 : Ενδιάμεση αναφορά , Αναρτήσεις 
 ### Twitter account : https://twitter.com/p17dimo
 
-## Εργασία 2 : Τελική αναφορά
+## Εργασία 2 : Τελική αναφορά , Αλλαγές στην ιστοσελίδα
 ### url: https://github.com/christosdemosthenous/gr
 ### url: https://github.com/christosdemosthenous/gr/blob/gh-pages/_includes/twitter.htlm
