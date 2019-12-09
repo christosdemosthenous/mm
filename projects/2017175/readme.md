@@ -41,5 +41,5 @@
 # Twitter account : https://twitter.com/p17dimo
 
 ## Εργασία 2 : Τελική αναφορά
-# url : https://github.com/christosdemosthenous/gr
-# url : https://github.com/christosdemosthenous/gr/blob/gh-pages/_includes/twitter.htlm
+# url: https://github.com/christosdemosthenous/gr
+# url: https://github.com/christosdemosthenous/gr/blob/gh-pages/_includes/twitter.htlm
